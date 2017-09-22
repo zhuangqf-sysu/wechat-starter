@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.borball.weixin-sdk:weixin-mp:0.9.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.borball.weixin-sdk/weixin-mp/0.9.6/2645a5988d2f60f39e5d056327e51f445600050c/weixin-mp-0.9.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.borball.weixin-sdk/weixin-mp/0.9.6/fd7345397248aa1874663594100b19e77d81f587/weixin-mp-0.9.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

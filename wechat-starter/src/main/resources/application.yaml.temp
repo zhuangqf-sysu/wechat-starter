@@ -1,0 +1,15 @@
+wechat:
+  mpApps:
+    - name:
+      appSetting:
+        appId:
+        secret:
+        token:
+        aeaKey:
+        tokenHolderClass:
+  qyApps:
+    - name:
+      corpSetting:
+        corpId;
+        corpSecret;
+        tokenHolderClass;

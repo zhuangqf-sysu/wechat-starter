@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.borball.weixin-sdk:weixin-qydev:0.9.6">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/Could not resolve com.github.borball.weixin-sdk:weixin-qydev:0.9.6." />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.borball.weixin-sdk/weixin-qydev/0.9.6/2cd59ed939ebbd0e898afe9eb57d70728c8699b9/weixin-qydev-0.9.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.borball.weixin-sdk/weixin-qydev/0.9.6/27228cc372f5590c54a4ff9899617c21c140a705/weixin-qydev-0.9.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
