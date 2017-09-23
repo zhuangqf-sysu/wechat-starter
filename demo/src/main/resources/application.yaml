@@ -1,0 +1,10 @@
+wechat:
+  mpApps:
+    - name: abc
+      appSetting:
+        appId: abc
+        secret: abc
+    - name: bcd
+      appSetting:
+        appId: bcd
+        secret: bcd
