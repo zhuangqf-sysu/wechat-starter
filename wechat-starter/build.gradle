@@ -1,5 +1,3 @@
-
-
 group 'com.zhuangqf.learn'
 version '1.0-SNAPSHOT'
 
@@ -12,8 +10,8 @@ repositories {
 }
 
 dependencies {
-    compile 'com.github.borball.weixin-sdk:weixin-sdk:0.9.6'
     compile 'com.github.borball.weixin-sdk:weixin-mp:0.9.6'
     compile 'com.github.borball.weixin-sdk:weixin-qydev:0.9.6'
     compile 'org.springframework.boot:spring-boot-autoconfigure:1.5.2.RELEASE'
+    compile 'org.springframework.boot:spring-boot-starter-web:1.5.2.RELEASE'
 }

@@ -1,5 +1,5 @@
-package com.zhuangqf.learn.config.properties;
-import com.zhuangqf.learn.config.VO.WxAppSetting;
+package com.zhuangqf.learn.properties;
+import com.zhuangqf.learn.VO.WxAppSetting;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
 import java.util.List;

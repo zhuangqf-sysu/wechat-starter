@@ -1,8 +1,8 @@
 package com.zhuangqf.learn.config;
 
-import com.zhuangqf.learn.config.VO.WxAppSetting;
-import com.zhuangqf.learn.config.VO.WxClientFactory;
-import com.zhuangqf.learn.config.properties.WechatProperties;
+import com.zhuangqf.learn.VO.WxAppSetting;
+import com.zhuangqf.learn.VO.WxClientFactory;
+import com.zhuangqf.learn.properties.WechatProperties;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnBean;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;

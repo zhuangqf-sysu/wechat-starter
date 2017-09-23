@@ -1,4 +1,4 @@
-package com.zhuangqf.learn.config.VO;
+package com.zhuangqf.learn.VO;
 
 import com.riversoft.weixin.common.AccessTokenHolder;
 import com.riversoft.weixin.common.DefaultAccessTokenHolder;
