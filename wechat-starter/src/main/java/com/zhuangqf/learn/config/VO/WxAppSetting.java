@@ -5,8 +5,7 @@ import com.riversoft.weixin.mp.base.AppSetting;
 /**
  * Created by zhuangqf on 9/23/17.
  */
-public class MpApp {
-
+public class WxAppSetting {
     private String name;
     private AppSetting appSetting;
 

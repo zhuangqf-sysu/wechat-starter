@@ -1,8 +1,5 @@
 package com.zhuangqf.learn.config.properties;
-import com.riversoft.weixin.mp.base.AppSetting;
-import com.riversoft.weixin.qy.base.CorpSetting;
-import com.zhuangqf.learn.config.VO.MpApp;
-import com.zhuangqf.learn.config.VO.QyApp;
+import com.zhuangqf.learn.config.VO.WxAppSetting;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
 import java.util.List;
@@ -13,22 +10,22 @@ import java.util.List;
 @ConfigurationProperties(prefix = "wechat")
 public class WechatProperties {
 
-    private List<MpApp> mpApps;
-    private List<QyApp> qyApps;
+    private List<WxAppSetting> mpApps;
+    private List<WxAppSetting> qyApps;
 
-    public List<MpApp> getMpApps() {
+    public List<WxAppSetting> getMpApps() {
         return mpApps;
     }
 
-    public void setMpApps(List<MpApp> mpApps) {
+    public void setMpApps(List<WxAppSetting> mpApps) {
         this.mpApps = mpApps;
     }
 
-    public List<QyApp> getQyApps() {
+    public List<WxAppSetting> getQyApps() {
         return qyApps;
     }
 
-    public void setQyApps(List<QyApp> qyApps) {
+    public void setQyApps(List<WxAppSetting> qyApps) {
         this.qyApps = qyApps;
     }
 }

@@ -1,2 +1,4 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  com.zhuangqf.learn.config.WechatAutoConfiguration
+  com.zhuangqf.learn.config.EndpointAutoConfiguration,\
+  com.zhuangqf.learn.config.MpAutoConfiguration,\
+  com.zhuangqf.learn.config.QyAutoConfiguration
